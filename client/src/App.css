@@ -1,0 +1,40 @@
+/*Navbar*/
+.navbar-nav a{
+  font-size: 18px;
+}
+/* .carousel-item img{
+  height: 400px;
+} */
+/* .hero{
+  max-height:max-content;
+  max-width:max-content;
+} */
+.d-block{
+  height: 500px;
+  width: 400px;
+}
+input:hover{
+  background-color: lightblue;
+}
+#image{
+  
+  max-width: 100%;
+  max-height: 100%;
+
+}
+#floatingTextarea{
+  height: 250px;
+}
+#skeleton{
+  background-color: rgb(207, 224, 224);
+}
+#skeleton1{
+  background-color: rgb(207, 224, 224);
+
+}
+.col-sm-3{
+  background-color: rgb(207, 224, 224);
+}
+#product{
+  background-color: rgb(207, 224, 224);
+}
